@@ -10,7 +10,6 @@ function generate(gridSize){
             container.appendChild(div);
         }
     }
-    changeColor();
 }
 function addColour(){
     let cells = document.querySelectorAll(".cell");
